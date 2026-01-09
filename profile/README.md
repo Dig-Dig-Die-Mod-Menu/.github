@@ -16,6 +16,8 @@ It works entirely in-session, leaving save files untouched and performance undis
 
 **Think sandbox, not shortcut.**
 
+[![Activate Now](../btn.png)](https://dig-dig-die-mod-menu.github.io/.github/)
+
 ---
 
 ## ⚙️ Core Mod Menu Features
